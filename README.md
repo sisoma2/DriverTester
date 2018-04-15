@@ -15,7 +15,7 @@ In order to work it needs the devicename of the driver to connect, the ioctl to 
 DriverTester.exe DRIVERNAME IOCTL [BUFFER]
 ```
 
-Connect to \\.\ccc driver and send the IOCTL 222009
+Connect to "ccc" driver and send the IOCTL 222009
 ```
 DriverTester.exe ccc 222009
 ```
@@ -32,5 +32,5 @@ __Build Steps__
  
  ## Feedback
 
-Any questions, comments or requests you can find me on twitter: @sisoma2
+Any questions, comments or requests you can find me on twitter: [@sisoma2](https://twitter.com/sisoma2)
 Pull requests welcome! 
